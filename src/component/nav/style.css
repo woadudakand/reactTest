@@ -1,0 +1,18 @@
+#brand {
+    padding: 15px;
+}
+#brand img {
+    width: 70px;    
+}
+#navBar{
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-start;
+    width: 100%;
+    padding-left: 150px;
+}
+#navBar li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 8px;
+}

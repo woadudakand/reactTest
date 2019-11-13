@@ -1,0 +1,12 @@
+.wraper{
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.wraper span{
+    padding: 15px;
+}

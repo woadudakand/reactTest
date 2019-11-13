@@ -1,0 +1,6 @@
+nav {
+    display: flex;
+    height: 90px;
+    align-items: center;
+    background: chocolate;
+}
